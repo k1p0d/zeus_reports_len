@@ -2,7 +2,7 @@
 This exploit is a remote timing attack against Zeus C&C enabling the attacker to resolve the length in characters of the reports directory name by carefully measuring the response time of the server.
 The associated blog post - http://www.kerneronsec.com/2015/10/timing-attack-vulnerability-in-most.html
 
-   - Rotem Kerner
+   Rotem Kerner
 
 # Whats in the box ?
 
