@@ -13,4 +13,6 @@ the algorthim if it has the right cipher in its repository.<br>
 # TODO
 * optimize the sampling stage
 * optimize the "mesurable interval test"
+* Threading
 * recode in python?
+
