@@ -4,7 +4,8 @@ This exploit is a remote timing attack against Zeus C&C enabling the attacker to
 
 # Whats in the package ?
 
-zeus_reports_dirlen.php - is the actual remote timing attack exploit which reveals the reports directory name length
-zeus_rc4_algo_brute.php - as the name suggests, when given the right encryption key this tool lets you brute force the algorthim if it has the right cipher in its repository.
-Zeus.class.php - a generic Zeus client class which is able to communicate with most zeus variants
-Encryption.class.php - the cipher repository class, contains different variants of encryption ciphers used in zeus
+zeus_reports_dirlen.php - is the actual remote timing attack exploit which reveals the reports directory name length<br>
+zeus_rc4_algo_brute.php - as the name suggests, when given the right encryption key this tool lets you brute force
+the algorthim if it has the right cipher in its repository.<br>
+Zeus.class.php - a generic Zeus client class which is able to communicate with most zeus variants<br>
+Encryption.class.php - the cipher repository class, contains different variants of encryption ciphers used in zeus<br>
